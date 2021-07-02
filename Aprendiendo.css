@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+
+h1{
+    background-color:rgba(143, 6, 6, 0.733);
+    text-align:center;
+    color: rgb(42, 125, 202);
+    font-size: 80px;
+    font-style: oblique;
+}
+img{
+    border-style: dashed;
+    border-color: rgb(41, 179, 179);
+    border-radius: 15px;
+    max-width: 20%;
+    margin-top: 30px;
+    margin-right: 30px;
+    width: 300px; height: 300px;
+}
+
+#principal{
+    width: 80%;
+    border-style: double;
+    border-color: rgb(65, 2, 2);
+    margin: auto;
+    margin-top: 40px;
+    padding: 120px 20px;
+    background-color: rgba(49, 49, 49, 0.281);
+    background-blend-mode:soft-light;
+}
+body{
+    background:url(../Img/Fondo.jpg);
+    background-repeat:no-repeat;
+    background-attachment:index;
+    color:#fff;
+    height: 40vh;
+    width: 100%;
+    background-color: gray;
+    background-blend-mode:soft-light;
+}
